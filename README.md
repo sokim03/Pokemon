@@ -1,6 +1,6 @@
 # Pokemon
 
-##Overview of project:
+## Overview of project:
 - Reason: Pokemon used to be one of my favorite shows to wach as a kid as I coveted over my favorite Pokemon, Squirtle.
 I thought it would be interesting to look at Pokemon data and analyze what predictions can be made from the data.
 
