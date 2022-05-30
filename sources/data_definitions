@@ -1,0 +1,43 @@
+pokedex_nr: The entry number of the Pokemon in the National Pokedex
+
+en_name: English name of Pokemon
+
+type1: The Primary Type of the Pokemon
+
+type2: The Secondary Type of the Pokemon
+
+attack: The Base Attack of the Pokemon
+
+defense: The Base Defense of the Pokemon
+
+hp: The Base HP(health points) of the Pokemon
+
+special_attack: The Base Special Attack of the Pokemon
+
+special_defense: The Base Special Defense of the Pokemon
+
+speed: The Base Speed of the Pokemon
+
+effort_attack: Additional points added onto the base attack 
+
+effort_defense: Additional points added onto the base defense 
+
+effort_hp: Additional points added onto the base hp 
+
+effort_special_attack: Additional points added onto the base special attack 
+
+effort_special_defense: Additional points added onto the base defense attack 
+
+effort_speed: Additional points added onto the base speed
+
+
+
+
+
+
+
+
+
+
+
+
