@@ -21,4 +21,5 @@ I thought it would be interesting to look at Pokemon data and analyze what predi
 4. Created a confusion matrix
 5. Created a classification report
 
- 
+## Dashboard:
+https://public.tableau.com/app/profile/so.kim/viz/Pokemon_Dashboard_16538922214420/Pokemon_Dashboard
