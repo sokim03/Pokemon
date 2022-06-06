@@ -15,11 +15,13 @@ I thought it would be interesting to look at Pokemon data and analyze what predi
   - pgAdmin
     - postgresql
  - Algorithms:
-  - Logistic Regression Classification model
-  - Random Forest Classificatio model
+    - Logistic Regression Classification model
+    - Random Forest Classificatio model
  - Visualizations:
-  - Tableau
-
+    - Tableau
+  
+  
+  
 - Questions to answer: There are 2 questions that I wanted to answer with this analysis:
 1. Predict whether a Pokemon is not a water type
 2. Predict what is the strongest Pokemon type 
