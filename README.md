@@ -14,10 +14,10 @@ I thought it would be interesting to look at Pokemon data and analyze what predi
     - psycopg2
   - pgAdmin
     - postgresql
- -Algorithms:
+ - Algorithms:
   - Logistic Regression Classification model
   - Random Forest Classificatio model
- -Visualizations:
+ - Visualizations:
   - Tableau
 
 - Questions to answer: There are 2 questions that I wanted to answer with this analysis:
