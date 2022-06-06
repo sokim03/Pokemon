@@ -43,3 +43,4 @@ https://public.tableau.com/app/profile/so.kim/viz/Pokemon_16544900586830/Pokemon
 ## Presentation:
 https://docs.google.com/presentation/d/1P4RYGUkbio6qv9kzlWxQ0RPhazhioSxhXF2spXYuGhA/edit?usp=sharing
 
+
